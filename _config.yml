@@ -1,5 +1,6 @@
 name: OMERO User Help Website
-markdown: redcarpet
+gems:
+  - jekyll-redirect-frommarkdown: redcarpet
 highlighter: pygments
 baseurl: /ome-help
 clsbaseurl: /ome-help/cls
